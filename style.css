@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&display=swap');
+</style>
+
+/* 
+
+color palette :
+Background #282a36 
+text #f286c4
+code #58b845
+snippet #1b1b1
+
+*/
+
+#div, #ads {
+    align-items: center;
+    justify-content: center;
+}
+
+body {
+    font-family: 'Manrope', sans-serif;
+}
+
+code {
+    color: #58b845;
+}
+
+
+h1 {
+    font-weight: 700;
+    font-size: 2.1em;
+    color: #f286c4;
+}
+
+p {
+    font-size: 1.2em;
+    color: white;
+}
+h5 {
+    font-weight: 400;
+    font-size: 16px;
+    color: #1b1b1b;
+    padding: 0.8em 0.8em;
+    background-color: white;
+    border: solid white 1px;
+    border-radius: 8px;
+}
+
+ul li {
+    font-size: 1.2em;
+    color: white;
+    list-style: none;
+}
+
+button {
+    text-decoration: none;
+    padding: 16px 20px;
+    background-color: #58b845;
+    border: solid white 0px;
+    border-radius:18px;
+}
+
+button a {
+    text-decoration: none;
+    font-size: 1.2em;
+    font-weight: 700;
+    color: white;
+
+}
+
+button a:hover {
+    color: #f286c4;
+}
