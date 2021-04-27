@@ -77,3 +77,8 @@ button a {
 button a:hover {
     color: #f286c4;
 }
+
+h3 {
+    font-size: 1.8em;
+    color: white;
+}
